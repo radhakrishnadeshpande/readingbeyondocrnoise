@@ -3,7 +3,7 @@
 **Radha Krishna Deshpande, Ajoy Mondal, Akash Manna, C V Jawahar**
 CVIT, International Institute of Information Technology, Hyderabad, India
 
-[Paper (PDF)](REPLACE_WITH_PAPER_LINK) · [Project page](REPLACE_WITH_PROJECT_PAGE_LINK) · [Code](https://github.com/radhakrishnadeshpande/Reading-Beyond-OCR-Noise-Robust-Cross-Lingual-RAG-for-Legislative-Archives#motivation)
+[Paper (PDF)]([REPLACE_WITH_PAPER_LINK](https://arxiv.org/abs/2610.35240v1)) · [Project page](REPLACE_WITH_PROJECT_PAGE_LINK) · [Code](https://github.com/radhakrishnadeshpande/Reading-Beyond-OCR-Noise-Robust-Cross-Lingual-RAG-for-Legislative-Archives#motivation)
 
 ---
 
